@@ -1,0 +1,142 @@
+CommonName,Species,MassG,GSAcm2,Source,PublishedIntercept,PublishedSlope,GSAUnitsForPublishedCoefficientEstimation,MassUnitsForPublishedCoefficientEstimation,AspectRatio,HabitatType,LogMaxMassG
+Pelagic Thresher,Alopias pelagicus,11820.9898,50209.531,Wootton et al 2015,12.508,0.8928,rawCM2,rawG,5.634866039,oceanic,5.106198
+Pelagic Thresher,Alopias pelagicus,21162.0311,119845.611,Wootton et al 2015,12.508,0.8928,rawCM2,rawG,5.634866039,oceanic,5.106198
+Pelagic Thresher,Alopias pelagicus,33609.0812,109059.126,Wootton et al 2015,12.508,0.8928,rawCM2,rawG,5.634866039,oceanic,5.106198
+Pelagic Thresher,Alopias pelagicus,51222.9642,150207.855,Wootton et al 2015,12.508,0.8928,rawCM2,rawG,5.634866039,oceanic,5.106198
+Pelagic Thresher,Alopias pelagicus,74048.89218,334981.658,Wootton et al 2015,12.508,0.8928,rawCM2,rawG,5.634866039,oceanic,5.106198
+Pelagic Thresher,Alopias pelagicus,78160.57842,298918.938,Wootton et al 2015,12.508,0.8928,rawCM2,rawG,5.634866039,oceanic,5.106198
+Bigeye Thresher,Alopias superciliosus,48826.67,194979.896,Wootton et al 2015,52.168,0.7753,rawCM2,rawG,4.67433104,oceanic,5.560862695
+Bigeye Thresher,Alopias superciliosus,57674.46,229986.621,Wootton et al 2015,52.168,0.7753,rawCM2,rawG,4.67433104,oceanic,5.560862695
+Bigeye Thresher,Alopias superciliosus,58226.23,250643.4,Wootton et al 2015,52.168,0.7753,rawCM2,rawG,4.67433104,oceanic,5.560862695
+Bigeye Thresher,Alopias superciliosus,59340.45,321351.189,Wootton et al 2015,52.168,0.7753,rawCM2,rawG,4.67433104,oceanic,5.560862695
+Bigeye Thresher,Alopias superciliosus,71285.3,380592.356,Wootton et al 2015,52.168,0.7753,rawCM2,rawG,4.67433104,oceanic,5.560862695
+Bigeye Thresher,Alopias superciliosus,73854.4,290689.9,Wootton et al 2015,52.168,0.7753,rawCM2,rawG,4.67433104,oceanic,5.560862695
+Bigeye Thresher,Alopias superciliosus,98264.13,342121.055,Wootton et al 2015,52.168,0.7753,rawCM2,rawG,4.67433104,oceanic,5.560862695
+Bigeye Thresher,Alopias superciliosus,108370.04,457160.112,Wootton et al 2015,52.168,0.7753,rawCM2,rawG,4.67433104,oceanic,5.560862695
+Bigeye Thresher,Alopias superciliosus,108370.04,486178.022,Wootton et al 2015,52.168,0.7753,rawCM2,rawG,4.67433104,oceanic,5.560862695
+Bigeye Thresher,Alopias superciliosus,127273,421505.016,Wootton et al 2015,52.168,0.7753,rawCM2,rawG,4.67433104,oceanic,5.560862695
+Common Thresher Shark,Alopias vulpinus,7913.70954,24731.1499,Wootton et al 2015,2.464,1.0299,rawCM2,rawG,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,10281.0145,44349.837,Wootton et al 2015,2.464,1.0299,rawCM2,rawG,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,12449.6467,27713.59,Wootton et al 2015,2.464,1.0299,rawCM2,rawG,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,14451.1959,43092.217,Wootton et al 2015,2.464,1.0299,rawCM2,rawG,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,22654.1,90588.743,Wootton et al 2015,2.464,1.0299,rawCM2,rawG,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,29826.3,113787.177,Wootton et al 2015,2.464,1.0299,rawCM2,rawG,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,53237.13,183612.772,Wootton et al 2015,2.464,1.0299,rawCM2,rawG,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,63925.6,213760.59,Wootton et al 2015,2.464,1.0299,rawCM2,rawG,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,63925.6,218599.013,Wootton et al 2015,2.464,1.0299,rawCM2,rawG,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,91471.0131,295459.5986,Wootton et al 2015,2.464,1.0299,rawCM2,rawG,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,59603.9,229710,Emery and Sczcepanski 1985,3.4,0.41,logCM2,logG ,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,63313.1,200532,Emery and Sczcepanski 1985,3.4,0.41,logCM2,logG ,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,94646.7,292183,Emery and Sczcepanski 1985,3.4,0.41,logCM2,logG ,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,104459,324665,Emery and Sczcepanski 1985,3.4,0.41,logCM2,logG ,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,121524,294274,Emery and Sczcepanski 1985,3.4,0.41,logCM2,logG ,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,145725,264710,Emery and Sczcepanski 1985,3.4,0.41,logCM2,logG ,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,151435,371641,Emery and Sczcepanski 1985,3.4,0.41,logCM2,logG ,5.218674229,oceanic,5.541579244
+Common Thresher Shark,Alopias vulpinus,180253,371535,Emery and Sczcepanski 1985,3.4,0.41,logCM2,logG ,5.218674229,oceanic,5.541579244
+Dusky Shark,Carcharhinus obscurus,21876.2,50155.5,Emery and Sczcepanski 1985,0.79,0.88,logCM2,logG ,3.17827868,coastal,5.539703239
+Dusky Shark,Carcharhinus obscurus,45297.6,77581.4,Emery and Sczcepanski 1985,0.79,0.88,logCM2,logG ,3.17827868,coastal,5.539703239
+Dusky Shark,Carcharhinus obscurus,49615.7,85559.8,Emery and Sczcepanski 1985,0.79,0.88,logCM2,logG ,3.17827868,coastal,5.539703239
+Dusky Shark,Carcharhinus obscurus,151355,270751,Emery and Sczcepanski 1985,0.79,0.88,logCM2,logG ,3.17827868,coastal,5.539703239
+Dusky Shark,Carcharhinus obscurus,176085,247264,Emery and Sczcepanski 1985,0.79,0.88,logCM2,logG ,3.17827868,coastal,5.539703239
+Dusky Shark,Carcharhinus obscurus,195805,264582,Emery and Sczcepanski 1985,0.79,0.88,logCM2,logG ,3.17827868,coastal,5.539703239
+Dusky Shark,Carcharhinus obscurus,217885,431884,Emery and Sczcepanski 1985,0.79,0.88,logCM2,logG ,3.17827868,coastal,5.539703239
+Dusky Shark,Carcharhinus obscurus,299496,434927,Emery and Sczcepanski 1985,0.79,0.88,logCM2,logG ,3.17827868,coastal,5.539703239
+Sandbar Shark,Carcharhinus plumbeus,4200,9330.65,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,4900,10040.59,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,11700,26072.9,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,10500,22675.39,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,12500,25170.54,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,27700,58626.56,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,28700,46490.25,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,29500,53629.88,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,33100,66296.62,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,28100,56680.53,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,36300,61391.98,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,40400,81589.45,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,38600,80550.39,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,47600,78893.49,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,57500,152881.84,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,99800,230050.13,Hata 1993,5.321,0.99,logMM2,logKG,3.171188914,coastal,5.907088745
+Sandbar Shark,Carcharhinus plumbeus,19076.2,34408,Emery and Sczcepanski 1985,1.39,0.74,logCM2,logG ,3.171188914,coastal,5.071513805
+Sandbar Shark,Carcharhinus plumbeus,23592.6,44115.2,Emery and Sczcepanski 1985,1.39,0.74,logCM2,logG ,3.171188914,coastal,5.071513805
+Sandbar Shark,Carcharhinus plumbeus,23955.4,47212.1,Emery and Sczcepanski 1985,1.39,0.74,logCM2,logG ,3.171188914,coastal,5.071513805
+Sandbar Shark,Carcharhinus plumbeus,32437,51270.1,Emery and Sczcepanski 1985,1.39,0.74,logCM2,logG ,3.171188914,coastal,5.071513805
+Sandbar Shark,Carcharhinus plumbeus,47411.9,86213.8,Emery and Sczcepanski 1985,1.39,0.74,logCM2,logG ,3.171188914,coastal,5.071513805
+Sandbar Shark,Carcharhinus plumbeus,56010.1,87500.1,Emery and Sczcepanski 1985,1.39,0.74,logCM2,logG ,3.171188914,coastal,5.071513805
+Sandbar Shark,Carcharhinus plumbeus,58612.1,85536.4,Emery and Sczcepanski 1985,1.39,0.74,logCM2,logG ,3.171188914,coastal,5.071513805
+Sandbar Shark,Carcharhinus plumbeus,62763.3,100203,Emery and Sczcepanski 1985,1.39,0.74,logCM2,logG ,3.171188914,coastal,5.071513805
+Sandbar Shark,Carcharhinus plumbeus,68734.4,99435.2,Emery and Sczcepanski 1985,1.39,0.74,logCM2,logG ,3.171188914,coastal,5.071513805
+Sandbar Shark,Carcharhinus plumbeus,77572.6,86796.4,Emery and Sczcepanski 1985,1.39,0.74,logCM2,logG ,3.171188914,coastal,5.071513805
+White Shark,Carcharodon carcharias,12026.7,53326.7,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,17845.6,84420.2,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,18393.1,80681.6,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,53997.2,188841,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,142572,442074,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,159726,441991,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,172303,455471,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,185867,465835,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,251789,663661,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,284260,710127,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,879961,1674540,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,1079720,1751460,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+White Shark,Carcharodon carcharias,1237664,1984980,Emery and Sczcepanski 1985,1.63,0.77,logCM2,logG ,3.124235223,oceanic,6.318152544
+Tiger Shark,Galeocerdo cuvier,4100,17775.97,Hata 1993,5.668,0.912,logMM2,logKG,3.187210151,oceanic,5.539703239
+Tiger Shark,Galeocerdo cuvier,8200,30930.51,Hata 1993,5.668,0.912,logMM2,logKG,3.187210151,oceanic,5.539703239
+Tiger Shark,Galeocerdo cuvier,17700,66061.56,Hata 1993,5.668,0.912,logMM2,logKG,3.187210151,oceanic,5.539703239
+Tiger Shark,Galeocerdo cuvier,20000,77285.38,Hata 1993,5.668,0.912,logMM2,logKG,3.187210151,oceanic,5.539703239
+Tiger Shark,Galeocerdo cuvier,45100,124965.9,Hata 1993,5.668,0.912,logMM2,logKG,3.187210151,oceanic,5.539703239
+Tiger Shark,Galeocerdo cuvier,82600,232358.43,Hata 1993,5.668,0.912,logMM2,logKG,3.187210151,oceanic,5.539703239
+Tiger Shark,Galeocerdo cuvier,134800,381047.24,Hata 1993,5.668,0.912,logMM2,logKG,3.187210151,oceanic,5.539703239
+Tiger Shark,Galeocerdo cuvier,200600,736503.67,Hata 1993,5.668,0.912,logMM2,logKG,3.187210151,oceanic,5.539703239
+Shortfin Mako,Isurus oxyrinchus,5010,30143.875,Wegner et al. 2010,35.899,0.7834,rawCM2,rawG,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,5800,29249.39,Wegner et al. 2010,35.899,0.7834,rawCM2,rawG,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,18000,85719.63,Wegner et al. 2010,35.899,0.7834,rawCM2,rawG,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,34000,111659.45,Wegner et al. 2010,35.899,0.7834,rawCM2,rawG,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,55500,197604.44,Wegner et al. 2010,35.899,0.7834,rawCM2,rawG,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,13578.6,59253,Emery and Sczcepanski 1985,1.76,0.74,logCM2,logG ,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,14323.7,75418.2,Emery and Sczcepanski 1985,1.76,0.74,logCM2,logG ,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,44323.5,140769,Emery and Sczcepanski 1985,1.76,0.74,logCM2,logG ,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,47827.8,173843,Emery and Sczcepanski 1985,1.76,0.74,logCM2,logG ,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,55234.1,180480,Emery and Sczcepanski 1985,1.76,0.74,logCM2,logG ,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,67771.9,187353,Emery and Sczcepanski 1985,1.76,0.74,logCM2,logG ,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,90427,264917,Emery and Sczcepanski 1985,1.76,0.74,logCM2,logG ,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,91805,260945,Emery and Sczcepanski 1985,1.76,0.74,logCM2,logG ,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,112705,374636,Emery and Sczcepanski 1985,1.76,0.74,logCM2,logG ,2.522842357,oceanic,5.703978825
+Shortfin Mako,Isurus oxyrinchus,142504,331925,Emery and Sczcepanski 1985,1.76,0.74,logCM2,logG ,2.522842357,oceanic,5.703978825
+Gray Smoothhound,Mustelus californicus,560,1103.681,This Study,0.9632,0.784,log10CM2,log10G,2.136945348,coastal,3.681241237
+Gray Smoothhound,Mustelus californicus,600,1677.2,This Study,0.9632,0.784,log10CM2,log10G,2.136945348,coastal,3.681241237
+Gray Smoothhound,Mustelus californicus,800,1608.014,This Study,0.9632,0.784,log10CM2,log10G,2.136945348,coastal,3.681241237
+Gray Smoothhound,Mustelus californicus,1320,3135.29,This Study,0.9632,0.784,log10CM2,log10G,2.136945348,coastal,3.681241237
+Gray Smoothhound,Mustelus californicus,1500,2971.521,This Study,0.9632,0.784,log10CM2,log10G,2.136945348,coastal,3.681241237
+Gray Smoothhound,Mustelus californicus,1680,3152.41,This Study,0.9632,0.784,log10CM2,log10G,2.136945348,coastal,3.681241237
+Gray Smoothhound,Mustelus californicus,1880,2536.94,This Study,0.9632,0.784,log10CM2,log10G,2.136945348,coastal,3.681241237
+Gray Smoothhound,Mustelus californicus,2600,4762.7,This Study,0.9632,0.784,log10CM2,log10G,2.136945348,coastal,3.681241237
+Blue Shark,Prionace glauca,12663,21900,Emery and Sczcepanski 1985,0.74,0.88,logCM2,logG ,3.484383584,oceanic,5.313656347
+Blue Shark,Prionace glauca,25634.8,36806.6,Emery and Sczcepanski 1985,0.74,0.88,logCM2,logG ,3.484383584,oceanic,5.313656347
+Blue Shark,Prionace glauca,44623.8,85574.6,Emery and Sczcepanski 1985,0.74,0.88,logCM2,logG ,3.484383584,oceanic,5.313656347
+Blue Shark,Prionace glauca,47397.2,71400.2,Emery and Sczcepanski 1985,0.74,0.88,logCM2,logG ,3.484383584,oceanic,5.313656347
+Blue Shark,Prionace glauca,56842.4,68737.6,Emery and Sczcepanski 1985,0.74,0.88,logCM2,logG ,3.484383584,oceanic,5.313656347
+Blue Shark,Prionace glauca,77588,97927.3,Emery and Sczcepanski 1985,0.74,0.88,logCM2,logG ,3.484383584,oceanic,5.313656347
+Blue Shark,Prionace glauca,85683.8,157458,Emery and Sczcepanski 1985,0.74,0.88,logCM2,logG ,3.484383584,oceanic,5.313656347
+Blue Shark,Prionace glauca,105891,128406,Emery and Sczcepanski 1985,0.74,0.88,logCM2,logG ,3.484383584,oceanic,5.313656347
+Blue Shark,Prionace glauca,119577,159764,Emery and Sczcepanski 1985,0.74,0.88,logCM2,logG ,3.484383584,oceanic,5.313656347
+Blue Shark,Prionace glauca,128012,159746,Emery and Sczcepanski 1985,0.74,0.88,logCM2,logG ,3.484383584,oceanic,5.313656347
+Lesser Spotted Dogfish,Scyliorhinus canicula,116.184,267.578,Hughes 1972,262.3,0.91,rawCM2,rawG,1.627034515,coastal,3.113943352
+Lesser Spotted Dogfish,Scyliorhinus canicula,262.901,473.365,Hughes 1972,262.3,0.91,rawCM2,rawG,1.627034515,coastal,3.113943352
+Lesser Spotted Dogfish,Scyliorhinus canicula,322.715,734.819,Hughes 1972,262.3,0.91,rawCM2,rawG,1.627034515,coastal,3.113943352
+Lesser Spotted Dogfish,Scyliorhinus canicula,501.799,1136.98,Hughes 1972,262.3,0.91,rawCM2,rawG,1.627034515,coastal,3.113943352
+Lesser Spotted Dogfish,Scyliorhinus canicula,645.445,1404.79,Hughes 1972,262.3,0.91,rawCM2,rawG,1.627034515,coastal,3.113943352
+Lesser Spotted Dogfish,Scyliorhinus canicula,809.669,1714.45,Hughes 1972,262.3,0.91,rawCM2,rawG,1.627034515,coastal,3.113943352
+Lesser Spotted Dogfish,Scyliorhinus canicula,1014.14,1867.34,Hughes 1972,262.3,0.91,rawCM2,rawG,1.627034515,coastal,3.113943352
+Nursehound,Scyliorhinus stellaris,585,1102,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,630,1102,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,730,947,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,750,1057,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,850,1111,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,1033,1405,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,1033,1264,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,1090,1235,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,1500,1553,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,1760,2136,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,2470,2617,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
+Nursehound,Scyliorhinus stellaris,2615,3700,Hughes et al. 1986,1350,0.779,rawCM2,rawKG,1.627034515,coastal,3.020899673
